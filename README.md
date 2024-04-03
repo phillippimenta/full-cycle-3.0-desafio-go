@@ -27,6 +27,12 @@ docker run desafio-go
 
 Isso irá criar uma imagem Docker a partir do Dockerfile fornecido e executar um contêiner a partir dessa imagem. O programa dentro do contêiner irá imprimir "Full Cycle Rocks!" no console.
 
+### Imagem no Dockerhub
+
+![Imagem dockerhub 1](https://github.com/phillippimenta/full-cycle-3.0-desafio-go/blob/main/docs/dockerhub.jpg)
+
+![Imagem dockerhub 2](https://github.com/phillippimenta/full-cycle-3.0-desafio-go/blob/main/docs/dockerhub2.jpg)
+
 ## Autor
 
 Este desafio foi resolvido por Phillip Eduardo Pimenta Forte.
